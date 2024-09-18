@@ -7,7 +7,7 @@
 * Student Name:  Yachna Dineshkumar Patel
 * Student Email: ydpatel8@myseneca.ca
 * Course/Section: WEB422/ZAA
-* Deployment URL: https://www.your.assignment.com
+* Deployment URL: https://web422-peach.vercel.app/
 *****************************************************************************/
 
 const express = require('express');
