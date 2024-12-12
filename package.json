@@ -1,0 +1,32 @@
+{
+  "name": "my-app-name",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "module-alias": "^2.2.3",
+    "next": "^14.2.20",
+    "react": "^18.3.1",
+    "react-bootstrap": "^2.10.5",
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.53.2",
+    "reactdom": "^2.0.0",
+    "swr": "^2.2.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20.7.0",
+    "@types/react": "^18.2.14",
+    "@types/react-dom": "^18.2.6",
+    "eslint": "^8.51.0",
+    "eslint-config-next": "^14.2.0",
+    "postcss": "^8.4.24",
+    "tailwindcss": "^3.4.4",
+    "typescript": "^5.2.2"
+  }
+}
